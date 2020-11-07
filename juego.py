@@ -5,4 +5,4 @@ num=-1
 while num != numrand:
     num=int(input("Que número estoy pensando?: "))
 
-print("Adivinaste era el número que pensaba %d" % (int(num)))
+print("Por fin !! ... Adivinaste era el número que pensaba %d" % (int(num)))
